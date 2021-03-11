@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for service carts-s3
+name: carts-s3
+version: 0.1.0
