@@ -1,0 +1,2 @@
+image: docker.io/keptnexamples/carts-s2:0.11.1
+replicaCount: 1
